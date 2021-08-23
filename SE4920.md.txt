@@ -2,3 +2,8 @@ Clone : Clone your repository to your local machine
 Add : Take a modified file in your working directory and place the modified version in a staging area.
 Commit : Takes everything from the staging area and makes a permanant snapshot of the current state of your repository that is associated with a unique identifier.
 Push : to add the changes to your GitHub repository files on your computer to the version of your repository on GitHub.
+
+
+Discard hunk : Remove the change without trace.
+
+Branch : 
